@@ -9,7 +9,8 @@ public class HelloWorld
        colors.Add("Red");    
        colors.Add("Green");    
        colors.Add("Yelow");    
-       colors.Add("Black"); 
+        colors.Add("LightBlue");
+        colors.Add("Purple"); 
        colors.Remove("Black");
        for(int i=0;i<colors.Count; i++){
            if(colors [i]=="Yelow"){
