@@ -1,0 +1,11 @@
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\bin\Release\ComboBox.exe.config
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\bin\Release\ComboBox.exe
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\bin\Release\ComboBox.pdb
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.csproj.AssemblyReference.cache
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.Form1.resources
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.Properties.Resources.resources
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.csproj.GenerateResource.cache
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.exe
+C:\Users\21dim\Desktop\VS_Repo\ComboBox\obj\Release\ComboBox.pdb

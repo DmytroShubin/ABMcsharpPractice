@@ -1,0 +1,12 @@
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\bin\Debug\FormsLearning.exe.config
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\bin\Debug\FormsLearning.exe
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\bin\Debug\FormsLearning.pdb
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.csproj.AssemblyReference.cache
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.csproj.SuggestedBindingRedirects.cache
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.Form1.resources
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.Properties.Resources.resources
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.csproj.GenerateResource.cache
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.csproj.CoreCompileInputs.cache
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.exe
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.pdb
+C:\Users\21dim\Desktop\VS_Repo\FormsLearning\obj\Debug\FormsLearning.Form2.resources
