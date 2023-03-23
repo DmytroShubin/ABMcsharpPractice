@@ -10,3 +10,5 @@ C:\Users\21dim\Desktop\VS_Repo\Registration\obj\Debug\Registration.csproj.CoreCo
 C:\Users\21dim\Desktop\VS_Repo\Registration\obj\Debug\Registration.exe
 C:\Users\21dim\Desktop\VS_Repo\Registration\obj\Debug\Registration.pdb
 C:\Users\21dim\Desktop\VS_Repo\Registration\obj\Debug\Registration.Form2.resources
+C:\Users\21dim\Desktop\VS_Repo\Registration\obj\Debug\Registration.Form3.resources
+C:\Users\21dim\Desktop\VS_Repo\Registration\obj\Debug\Registration.Form4.resources
