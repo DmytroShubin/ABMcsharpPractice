@@ -1,0 +1,14 @@
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\bin\Debug\Final_Exam.exe.config
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\bin\Debug\Final_Exam.exe
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\bin\Debug\Final_Exam.pdb
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.csproj.AssemblyReference.cache
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.Form1.resources
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.Properties.Resources.resources
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.csproj.GenerateResource.cache
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.csproj.CoreCompileInputs.cache
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.exe
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.pdb
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.Form2.resources
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.Form3.resources
+C:\Users\21dim\Desktop\VS_Repo\Final_Exam\obj\Debug\Final_Exam.Form4.resources
